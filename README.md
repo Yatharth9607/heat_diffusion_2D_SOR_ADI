@@ -3,6 +3,5 @@ Solving Fourier's heat diffusion equations in 2D using SOR (Successive Over Rela
 
 A brief summary of the files in this project is as follows:
 
-1. heat_diffusion_2D_SOR_ADI.pdf
-
+1. `heat_diffusion_2D_SOR_ADI.pdf`
 Comprehensive report on the solving the heat diffusion equations in two dimensions using SOR and ADI methods
